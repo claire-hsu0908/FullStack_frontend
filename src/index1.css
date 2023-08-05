@@ -1,0 +1,44 @@
+h1{
+    background-color: pink;
+    border:2px solid plum;
+    
+}
+
+.note {
+    color:grey;
+    padding-top:3px;
+    font-size:15px
+}
+
+.error{
+    color:red;
+    background:lightgrey;
+    font-size:20px;
+    border-style:solid;
+    border-radius:5px;
+    padding:10px;
+    margin-bottom:10px;
+}
+
+.success{
+    color:green;
+    font-weight:bold;
+    border-radius: 10px;
+    border:5px solid green;
+    /* border does not work  */
+    background-color:lightgray;
+    font-size:20px;
+    padding:10px;
+}
+
+.fail{
+    color:red;
+    font-weight:bold;
+    border-radius: 10px;
+    border:5px solid red;
+    /* border does not work  */
+    background-color:lightgray;
+    font-size:20px;
+    padding:10px;
+
+}
